@@ -34,11 +34,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/yashkaur07/CAP2012_CA3_LeetCode_12503783/tree/master/0024-swap-nodes-in-pairs) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/yashkaur07/CAP2012_CA3_LeetCode_12503783/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/yashkaur07/CAP2012_CA3_LeetCode_12503783/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/yashkaur07/CAP2012_CA3_LeetCode_12503783/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/yashkaur07/CAP2012_CA3_LeetCode_12503783/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/yashkaur07/CAP2012_CA3_LeetCode_12503783/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
